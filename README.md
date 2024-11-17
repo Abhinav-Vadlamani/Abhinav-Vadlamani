@@ -5,4 +5,10 @@ I am a freshman at the University of Pennsylvania in the Jerome Fisher Program i
 
 ## 🚀 What I'm Up To
 - 🤖 Exploring explainable AI models for early sepsis prediction and prognosis of pCR in breast cancer patients
-- <i class="fa-solid fa-database"></i> d
+- 📊 Developing algorithms and policies using game theory for database carbon emission management
+- 🃏 Developing a full-stack application to teach users card counting and perfect basic strategy in blackjack
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadlamani123)
+
+# 💻 Tech Stack:
