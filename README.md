@@ -1,17 +1,12 @@
-<h1 align="center">👋 I'm Abhinav Vadlamani</h1>
-
-# 💫 About Me:
-I am a freshman at the University of Pennsylvania in the Jerome Fisher Program in Management and Technology, studying computer science and finance, and passionate about building full-stack applications and exploring AI. 
-
-## 🚀 What I'm Up To
+## Current Projects
 - 🤖 Exploring explainable AI models for early sepsis prediction and prognosis of pCR in breast cancer patients
 - 📊 Developing algorithms and policies using game theory for database carbon emission management
 - 🃏 Developing a full-stack application to teach users card counting and perfect basic strategy in blackjack
 
-## 🌐 Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadlamani123)
 
-# 💻 Tech Stack:
+# Tech Stack:
 #### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
